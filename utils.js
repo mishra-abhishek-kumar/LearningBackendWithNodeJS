@@ -19,3 +19,9 @@ const log = {
 //1st method
 module.exports = {multiply, log};
 
+//2nd method
+module.exports.hello = () => {
+    console.log("Hello");
+}
+
+module.exports.text = "Code Text";
