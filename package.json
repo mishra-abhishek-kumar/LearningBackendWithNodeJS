@@ -1,0 +1,23 @@
+{
+  "name": "introtonodejs",
+  "version": "1.0.0",
+  "description": "1. index.js is the entry file\r 2. We can export different modules from different files and can import them too.\r 3. Adding package.json file: includes the details of all the packages that is used in projects and their versions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishra-abhishek-kumar/LearningBackendWithNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishra-abhishek-kumar/LearningBackendWithNodeJS/issues"
+  },
+  "homepage": "https://github.com/mishra-abhishek-kumar/LearningBackendWithNodeJS#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
